@@ -77,7 +77,7 @@ Ogni seduta si adatta alle tue esigenze per restituirti equilibrio e benessere d
 | **Cranio-sacrale** | Tecnica delicata che agisce su cranio, colonna e sacro con tocchi leggeri. | Rilassamento profondo, riduzione stress, aiuto in caso di cefalee e tensioni nervose. |
 | **Coppettazione**  | Applicazione di coppette che creano effetto ventosa sulla pelle. | Stimolazione circolazione, scioglimento tensioni muscolari profonde, eliminazione tossine. |
 | **Moxa**           | Calore terapeutico tramite combustione di artemisia su specifici punti. | Scioglimento blocchi energetici, riscaldamento muscolare, sollievo dolori articolari. |
-| **Tapping**        | Percussioni ritmiche e leggere su muscoli e articolazioni. | Rilassamento muscolare, stimolazione energetica, miglioramento tono generale. |
+| **Tocco**        | Percussioni ritmiche e leggere su muscoli e articolazioni. | Rilassamento muscolare, stimolazione energetica, miglioramento tono generale. |
 | **Kinesio taping** | Cerotto elastico non medicamentoseo applicato sulla cute. | Corregge la fuzione muscolare, facilita circolazione sangugna e linfatica, riduce dolore ed assiste nella correzione dell'allineamento articolare. |
 
 _Ogni trattamento può essere personalizzato e combinato secondo le necessità della persona._
