@@ -1,11 +1,12 @@
 
 <p align="center">
-  <img width="300" height="320" alt="image" src="https://github.com/user-attachments/assets/8588f97d-1e20-45d2-bbe7-2c34395c86d2" />
-
-
+  <img width="400" height="420" alt="image" src="https://github.com/user-attachments/assets/8588f97d-1e20-45d2-bbe7-2c34395c86d2" />
 <h1 align="center" style="color:#1a237e;">
-  <b>Shiatsu R-Evolution La Cura di Te</b>
+  <b>La Cura di Te</b>
+
+  
 </h1>
+
 <p align="center" style="font-size:1.1em;">
   <b>Sollievo Professionale da Dolore, Stress e Tensioni Muscolari</b>
 </p>
@@ -37,7 +38,7 @@
 
 - Operatori certificati e costantemente aggiornati
 - Anni di esperienza e formazione professionale
-- Oltre 15 testimonianze entusiaste
+- Molte testimonianze entusiaste
 - Specializzazione in lombalgia, sciatalgia, cervicalgia, tensioni muscolari, stress
 
 ---
