@@ -46,7 +46,7 @@
 ## 🌱 Visione Olistica
 
 Trattiamo la persona nella sua interezza: corpo, mente ed emozioni sono un tutt’uno.  
-Ogni seduta si adatta alle tue esigenze per restituirti equilibrio e benessere duraturo.
+Ogni seduta si adatta alle tue esigenze per restituirti equilibrio e benessere duraturo, attraverso metodiche integrate e personalizzate, intervenedo sul dolore, rigidita' e tensioni muscolari, ma nache sugli effetti dello stress e di squilibri muscolari.
 
 ---
 
