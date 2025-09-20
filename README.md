@@ -19,6 +19,7 @@
 
 ---
 
+
 <p align="center">
   <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/440ec363-5799-4a47-be53-16eeffd0eea3" />
   <br/>
@@ -71,10 +72,10 @@ Ogni seduta si adatta alle tue esigenze per restituirti equilibrio e benessere d
 
 
 
+
 <p align="center">
   <img width="290" height="340" alt="image" src="https://github.com/user-attachments/assets/4a1df6ba-da77-4365-8fdc-eb85e42ecd6f" />
-
-  
+  <br/>  
   <br/>
   <i>Massaggio miofasciale: ideale per sciogliere le tensioni muscolari profonde.</i>
 </p>
@@ -108,9 +109,10 @@ _Ogni trattamento può essere personalizzato e combinato secondo le necessità d
 
 ---
 
+
 <p align="center">
   <img width="300" height="340" alt="image" src="https://github.com/user-attachments/assets/65d79224-c3e5-4171-a691-f5737e22fcaf" />
-  
+  <br/>  
   <br/>
   <i>Trattamento cranio-sacrale: un tocco leggero per il massimo rilassamento e benessere mentale.</i>
 </p>
@@ -124,19 +126,21 @@ Scegliendo un pacchetto hai **offerte esclusive** e la possibilità di risparmia
 | Pacchetto                      | Prezzo totale      | Risparmio reale         |
 |---------------------------------|-------------------|-------------------------|
 | 3 sedute da 60 minuti           | €155              | **Risparmi €10**        |
-| 5 sedute da 60 minuti           | €250              | **Risparmi €25**        |
-| 10 sedute da 60 minuti          | €480              | **Risparmi €70**        |
-| 3 sedute da 30 minuti           | €95               | **Risparmi €10**        |
-| 5 sedute da 30 minuti           | €155              | **Risparmi €20**        |
-| 10 sedute da 30 minuti          | €300              | **Risparmi €50**        |
+| 5 sedute da 60 minuti           | €255              | **Risparmi €20**        |
+| 10 sedute da 60 minuti          | €510              | **Risparmi €40**        |
+| 3 sedute da 30 minuti           | €100              | **Risparmi €05**        |
+| 5 sedute da 30 minuti           | €160              | **Risparmi €15**        |
+| 10 sedute da 30 minuti          | €330              | **Risparmi €20**        |
 
 > Tutti i pacchetti includono priorità nelle prenotazioni.  
 > Pacchetti personalizzabili su richiesta.
 
 ---
 
+
 <p align="center">
   <img width="270" height="320" alt="image" src="https://github.com/user-attachments/assets/ce3c1cf4-ebe6-45f8-a832-6ca279188040" />
+  <br/>  
   <br/>
   <i>Coppettazione: stimolazione della circolazione per alleviare le tensioni più profonde.</i>
 </p>
