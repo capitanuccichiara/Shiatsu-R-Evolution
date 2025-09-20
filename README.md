@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img width="400" height="420" alt="image" src="https://github.com/user-attachments/assets/8588f97d-1e20-45d2-bbe7-2c34395c86d2" />
-<h1 align="center" style="color:#1a237e;">
-  <b>La Cura di Te</b>
+     <img width="420" height="85" alt="image" src="https://github.com/user-attachments/assets/29ad09ec-a134-476a-82fc-2eaeb699aefe" />
 
+  <h1 align="center" style="color:#1a237e;">  <h1 align="center" style="color:#1a237e;"
+     <b>La Cura di Te</b>
   
 </h1>
 
@@ -20,8 +20,9 @@
 ---
 
 <p align="center">
-  <img width="300" height="320" alt="image" src="https://github.com/user-attachments/assets/fc8c9910-7c27-4d7a-93d7-376f5ff42410" />
+  <img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/440ec363-5799-4a47-be53-16eeffd0eea3" />
   <br/>
+  <br/>  
   <i>Trattamento Shiatsu: un momento di rilassamento profondo per corpo e mente.</i>
 </p>
 
@@ -46,12 +47,34 @@
 ## 🌱 Visione Olistica
 
 Trattiamo la persona nella sua interezza: corpo, mente ed emozioni sono un tutt’uno.  
-Ogni seduta si adatta alle tue esigenze per restituirti equilibrio e benessere duraturo, attraverso metodiche integrate e personalizzate, intervenedo sul dolore, rigidita' e tensioni muscolari, ma nache sugli effetti dello stress e di squilibri muscolari.
+Ogni seduta si adatta alle tue esigenze per restituirti equilibrio e benessere duraturo, attraverso metodiche integrate e personalizzate, intervenendo sul dolore, rigidita' e tensioni muscolari, ma anche sugli effetti dello stress e di squilibri muscolari.
 
 ---
 
+## 👥 A Chi è Rivolto
+
+- Mal di schiena, lombalgia, sciatalgia
+- Dolore cervicale, rigidità, dolori cronici
+- Tensioni muscolari, ansia, stress
+- Chi vuole sentirsi meglio in modo naturale, professionale, mirato
+
+---
+
+## 🏆 Perché Sceglierci
+
+- Approccio personalizzato e scientificamente efficace
+- Tecniche moderne e tradizionali, massima competenza
+- Ambiente rilassante, sicuro e confortevole
+- Risultati visibili già dalle prime sedute
+  
+---
+
+
+
 <p align="center">
-  <img width="270" height="320" alt="image" src="https://github.com/user-attachments/assets/8d2f2bac-d291-4b81-8d4c-910d92403de1" />
+  <img width="290" height="340" alt="image" src="https://github.com/user-attachments/assets/4a1df6ba-da77-4365-8fdc-eb85e42ecd6f" />
+
+  
   <br/>
   <i>Massaggio miofasciale: ideale per sciogliere le tensioni muscolari profonde.</i>
 </p>
@@ -65,7 +88,7 @@ Ogni seduta si adatta alle tue esigenze per restituirti equilibrio e benessere d
 | **Ogni trattamento** | 30 minuti   | **€35**               |
 |                      | 60 minuti   | **€55**               |
 
-> _Tutti i trattamenti (shiatsu, miofasciale, cranio-sacrale, coppettazione, moxa, tapping) sono personalizzati in base alle tue esigenze._
+> _Tutti i trattamenti (shiatsu, miofasciale, cranio-sacrale, coppettazione, moxa, taping) sono personalizzati in base alle tue esigenze._
 
 ---
 
@@ -86,7 +109,8 @@ _Ogni trattamento può essere personalizzato e combinato secondo le necessità d
 ---
 
 <p align="center">
-  <img width="270" height="320" alt="image" src="https://github.com/user-attachments/assets/69ce4db6-38c7-43d5-b8a7-059ebea3a216" />
+  <img width="300" height="340" alt="image" src="https://github.com/user-attachments/assets/65d79224-c3e5-4171-a691-f5737e22fcaf" />
+  
   <br/>
   <i>Trattamento cranio-sacrale: un tocco leggero per il massimo rilassamento e benessere mentale.</i>
 </p>
@@ -139,8 +163,7 @@ Prenota subito:
 ---
 
 <p align="center">
-  <img width="400" height="440" alt="image" src="https://github.com/user-attachments/assets/339a5a32-40ce-41f7-a8f1-e475b5b7911b" />
-  <br/>
+   <img width="300" height="320" alt="image" src="https://github.com/user-attachments/assets/fc8c9910-7c27-4d7a-93d7-376f5ff42410" />  <br/>
   <i>Ambiente rilassante e accogliente: il tuo spazio di benessere.</i>
 </p>
 
@@ -162,23 +185,6 @@ Prenota subito:
 
 _(e molte altre testimonianze disponibili su richiesta)_
 
----
-
-## 👥 A Chi è Rivolto
-
-- Mal di schiena, lombalgia, sciatalgia
-- Dolore cervicale, rigidità, dolori cronici
-- Tensioni muscolari, ansia, stress
-- Chi vuole sentirsi meglio in modo naturale, professionale, mirato
-
----
-
-## 🏆 Perché Sceglierci
-
-- Approccio personalizzato e scientificamente efficace
-- Tecniche moderne e tradizionali, massima competenza
-- Ambiente rilassante, sicuro e confortevole
-- Risultati visibili già dalle prime sedute
 
 ---
 
