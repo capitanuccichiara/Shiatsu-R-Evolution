@@ -103,7 +103,7 @@ Ogni seduta si adatta alle tue esigenze per restituirti equilibrio e benessere d
 | **Coppettazione**  | Applicazione di coppette che creano effetto ventosa sulla pelle. | Stimolazione circolazione, scioglimento tensioni muscolari profonde, eliminazione tossine. |
 | **Moxa**           | Calore terapeutico tramite combustione di artemisia su specifici punti. | Scioglimento blocchi energetici, riscaldamento muscolare, sollievo dolori articolari. |
 | **Tocco**        | Percussioni ritmiche e leggere su muscoli e articolazioni. | Rilassamento muscolare, stimolazione energetica, miglioramento tono generale. |
-| **Kinesio taping** | Cerotto elastico non medicamentoseo applicato sulla cute. | Corregge la fuzione muscolare, facilita circolazione sangugna e linfatica, riduce dolore ed assiste nella correzione dell'allineamento articolare. |
+| **Kinesio taping** | Cerotto elastico non medicamentoso applicato sulla cute. | Corregge la fuzione muscolare, facilita circolazione sangugna e linfatica, riduce dolore ed assiste nella correzione dell'allineamento articolare. |
 
 _Ogni trattamento può essere personalizzato e combinato secondo le necessità della persona._
 
@@ -150,7 +150,7 @@ Scegliendo un pacchetto hai **offerte esclusive** e la possibilità di risparmia
 ## 🎁 Gift Card Personalizzata
 
 **Regala benessere a chi ami!**  
-Scegli una Gift Card per uno o più trattamenti, della durata che preferisci (30 o 60 minuti), con la possibilità di aggiungere un messaggio personalizzato.  
+Scegli una Gift Card per uno o più trattamenti, della durata che preferisci (30 o 60 minuti), con la possibilità di aggiungere un massaggio personalizzato.  
 Perfetta per ogni occasione!
 
 Contattaci per creare la tua Gift Card su misura.
